@@ -57,3 +57,8 @@ go build -o server.exe main.go
 ## 端口
 
 默认 `9090`，如需修改编辑 `main.go` 中的 `PORT` 常量。
+
+<img width="256" height="350" alt="fc4e59d2e68f1fec3bf61eebf5a6c72b" src="https://github.com/user-attachments/assets/03d3c647-37bb-441b-9d85-a7ad53f55187" />
+<img width="241" height="350" alt="b159b74412320eeae2ed87ac26e7dbf6" src="https://github.com/user-attachments/assets/1b104eac-5f77-4fcd-857c-e193c0fdb5b1" />
+<img width="241" height="350" alt="dcbdbfeb30d3dd690f8c157500e41515" src="https://github.com/user-attachments/assets/b8dca639-872c-4567-8a9c-5a911fa8e247" />
+
